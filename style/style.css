@@ -67,7 +67,8 @@ button:hover{
 }
 
 p{
-    margin: 10px;
+    align-self: center;
+    margin-left: 10px;
     font-size: 22px;
     flex-grow: 8;
 }
