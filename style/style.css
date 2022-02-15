@@ -71,6 +71,7 @@ p{
     margin-left: 10px;
     font-size: 22px;
     flex-grow: 8;
+    margin: auto;
 }
 
 .todo button{
