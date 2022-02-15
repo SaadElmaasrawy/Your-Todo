@@ -8,6 +8,10 @@ body{
     font-family: 'Tajawal', sans-serif;
     background: rgb(32,231,255);
     background: radial-gradient(circle, rgba(32,231,255,1) 0%, rgba(10,123,255,1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 h1{
     font-weight: 700;
